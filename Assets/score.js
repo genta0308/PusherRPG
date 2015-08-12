@@ -2,7 +2,7 @@
 static var score : int;
 
 function Awake(){
-    score = 30;
+    score = 100;
 }
 
 function Start () {
